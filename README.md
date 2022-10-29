@@ -5,7 +5,7 @@ LinkedIn-Clone
 
 ## Live Demo
 
-[Live Demo] https://erdemarslan.net/examples/Linkedln-clone/
+[Live Demo] https://erdemarslan.net/sample-projects/linkedin-clone/
 
 
 ## Used Technologies 
@@ -13,4 +13,4 @@ LinkedIn-Clone
 + HTML
 + CSS
 + Bootstrap
-
++ JavaScript
